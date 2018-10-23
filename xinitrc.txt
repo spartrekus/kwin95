@@ -5,7 +5,7 @@ xrdb .Xresources
 cd
 setxkbmap de
  echo rox
- rox --pinboard=PIN   &
+# rox --pinboard=PIN   &
 echo fbpanel
 fbpanel & 
 xbindkeys &
